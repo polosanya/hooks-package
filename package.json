@@ -1,0 +1,23 @@
+{
+  "name": "hooks-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polosanya/hooks-package.git"
+  },
+  "author": "polosanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polosanya/hooks-package/issues"
+  },
+  "homepage": "https://github.com/polosanya/hooks-package#readme",
+  "devDependencies": {
+    "react": "^18.2.0",
+    "typescript": "^5.0.4"
+  }
+}
